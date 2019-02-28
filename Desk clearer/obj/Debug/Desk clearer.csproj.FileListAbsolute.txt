@@ -1,0 +1,28 @@
+C:\Desk clearer\Desk clearer\bin\Debug\Desk clearer.exe.config
+C:\Desk clearer\Desk clearer\bin\Debug\Desk clearer.exe
+C:\Desk clearer\Desk clearer\bin\Debug\Desk clearer.pdb
+C:\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csprojResolveAssemblyReference.cache
+C:\Desk clearer\Desk clearer\obj\Debug\Desk_clearer.Form1.resources
+C:\Desk clearer\Desk clearer\obj\Debug\Desk_clearer.Properties.Resources.resources
+C:\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csproj.GenerateResource.Cache
+C:\Desk clearer\Desk clearer\obj\Debug\Desk clearer.exe
+C:\Desk clearer\Desk clearer\obj\Debug\Desk clearer.pdb
+E:\Desktop\Desk clearer\Desk clearer\bin\Debug\Desk clearer.exe.config
+E:\Desktop\Desk clearer\Desk clearer\obj\Debug\Desk clearer.exe
+E:\Desktop\Desk clearer\Desk clearer\obj\Debug\Desk clearer.pdb
+E:\Desktop\Desk clearer\Desk clearer\bin\Debug\Desk clearer.exe
+E:\Desktop\Desk clearer\Desk clearer\bin\Debug\Desk clearer.pdb
+E:\Desktop\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csprojResolveAssemblyReference.cache
+E:\Desktop\Desk clearer\Desk clearer\obj\Debug\Desk_clearer.Form1.resources
+E:\Desktop\Desk clearer\Desk clearer\obj\Debug\Desk_clearer.Properties.Resources.resources
+E:\Desktop\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csproj.GenerateResource.Cache
+D:\Project\C Sharp\Desk clearer\Desk clearer\bin\Debug\Desk clearer.exe.config
+D:\Project\C Sharp\Desk clearer\Desk clearer\bin\Debug\Desk clearer.exe
+D:\Project\C Sharp\Desk clearer\Desk clearer\bin\Debug\Desk clearer.pdb
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csprojAssemblyReference.cache
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk_clearer.Form1.resources
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk_clearer.Properties.Resources.resources
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csproj.GenerateResource.cache
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk clearer.csproj.CoreCompileInputs.cache
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk clearer.exe
+D:\Project\C Sharp\Desk clearer\Desk clearer\obj\Debug\Desk clearer.pdb
